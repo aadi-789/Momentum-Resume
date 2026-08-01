@@ -157,9 +157,6 @@ Optimized for one-click deployment on **Vercel** or **Netlify** — connect your
 
 ---
 
-## 📄 License
-
-Available for personal and portfolio use. Add a `LICENSE` file (e.g. MIT) if you intend to open-source or distribute it formally.
 
 ---
 
