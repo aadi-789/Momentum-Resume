@@ -164,5 +164,5 @@ Available for personal and portfolio use. Add a `LICENSE` file (e.g. MIT) if you
 ---
 
 <div align="center">
-  <strong>Made by Alok Tiwari</strong>
+  <strong>Made by Aditya Singh</strong>
 </div>
